@@ -1,11 +1,11 @@
-# web-development
+# Web development
 List of resources for web development
 
-##MARKDOWN
-* [Cos'è il markdown](#Cos'è il markdown) 
+## MARKDOWN
+* [Cos'è il markdown](#cosè-il-markdown) 
 
-##CSS
-* [CSS Gudes Linees](#CSS Gudelines)
+## CSS
+* [CSS Guideslines](#css-gudelines)
 
 ## Design
 
@@ -23,7 +23,7 @@ I testi possono poi essere convertiti in HTML immediatamente fruibile senza la p
 Il grosso vantaggio del Markdown è quello di generare dei file di testo che contengono la formattazione.
 I nostri file diventano così multipiattaforma: possono essere aperti con qualsiasi applicazione e su qualsiasi piattaforma senza perdere le formattazioni applicate al testo.
 
-Per la sintassi fare riferimento a [Markdown Cheatsheet] https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links
+Per la sintassi fare riferimento a [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
 Ed ecco il [markdown supportato da wordpress](https://en.support.wordpress.com/markdown-quick-reference/)
 
