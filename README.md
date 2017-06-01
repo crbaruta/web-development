@@ -1,7 +1,7 @@
 # Web development
 List of resources for web development
 
-## MARKDOWN
+## Markdown
 * [Cos'è il markdown](#cosè-il-markdown) 
 
 ## CSS
