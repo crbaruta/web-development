@@ -15,6 +15,9 @@ List of resources for web development
 * [Flexbox Grid](#flexbox-grid)
 * [Float Grid](#float-grid)
 
+## Graphics
+* [SVG e CSS quando e come usarle](#svg-e-css-quando-e-come-usarle)
+
 
 ## Cos'è il markdown
 Il Markdown è un linguaggio di formattazione creato da John Gruber e Aaron Swartz che consente di comporre testi velocemente con una sintassi semplice ed efficace.
@@ -205,6 +208,10 @@ A simple, responsive grid made with CSS floats and a clearfix hack. This grid is
 </div>
 ```
 
+## SVG e CSS quando e come usarle
+SVG (Scalable Vector Graphics) è un linguaggio per la descrizione di immagini vettoriali bidimensionali pensato principalmente per il web. Un'immagine vettoriale è descritta mediante un insieme di figure geometriche che definiscono punti, linee, curve e poligoni ai quali possono essere attribuiti colori e anche sfumature. 
+In un'immagine vettoriale è possibile ridimensionare a piacere qualsiasi elemento grafico, mantenendone la qualità, l'immagine così può essere riprodotta su supporti di differente natura (stampa, video, plotter, schermo di cellulare ecc.), mantenendo la massima qualità che quei supporti possono fornire.
+Ecco una [guida](http://www.html.it/guide/svg-e-css-la-guida/) per utilizzare al meglio  le SVG nei nostri progetti web
 
 
 
