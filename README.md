@@ -17,6 +17,7 @@ List of resources for web development
 
 ## Graphics
 * [SVG e CSS quando e come usarle](#svg-e-css-quando-e-come-usarle)
+* [Tecniche di image rplacement](#tecniche-di-image-replacement)
 
 
 ## Cos'è il markdown
@@ -211,7 +212,26 @@ A simple, responsive grid made with CSS floats and a clearfix hack. This grid is
 ## SVG e CSS quando e come usarle
 SVG (Scalable Vector Graphics) è un linguaggio per la descrizione di immagini vettoriali bidimensionali pensato principalmente per il web. Un'immagine vettoriale è descritta mediante un insieme di figure geometriche che definiscono punti, linee, curve e poligoni ai quali possono essere attribuiti colori e anche sfumature. 
 In un'immagine vettoriale è possibile ridimensionare a piacere qualsiasi elemento grafico, mantenendone la qualità, l'immagine così può essere riprodotta su supporti di differente natura (stampa, video, plotter, schermo di cellulare ecc.), mantenendo la massima qualità che quei supporti possono fornire.
+
 Ecco una [guida](http://www.html.it/guide/svg-e-css-la-guida/) per utilizzare al meglio  le SVG nei nostri progetti web
+Ecco una risorsa per [ottimizzare il codice](https://jakearchibald.github.io/svgomg/) delle nostre SVG online
+
+## Tecniche di image rplacement
+Le tecniche di image replacement permettono di sostituire il testo di un elemento html con un'immagine di sfondo.
+Lo scopo di queste tecniche è quello di poter utilizzare effetti grafici riproducibili solo mediante immagini all'interno di un pagina web, fornendo allo stessto tempo un testo accessibile agli screen reader e ai motori di ricerca.
+Al giorno il ricorso a queste tecniche non è sempre necessario in quanto abbiamo a disposizione valide alternative quali icon font, webfont, etc per rendere elementi grafici che prima potevano essere resi solo come immagini.
+Ecco alcuni riferimenti sulle moderne tecnich edi image replacemnt 
+
+
+** [Do We Still Need Image Replacement?] (http://www.loganfranken.com/blog/1244/do-we-still-need-image-replacement/)
+** [It’s Time to Be Honest about Image Replacement Techniques](https://www.sitepoint.com/its-time-to-be-honest-about-image-replacement-techniques/)
+** [Evoluzioni dell'image replacement] (http://blog.html.it/24/02/2014/evoluzioni-dellimage-replacement/)
+** [Modern Approach To CSS Image Replacement](https://www.appnovation.com/blog/modern-approach-css-image-replacement)
+
+
+
+
+
 
 
 
