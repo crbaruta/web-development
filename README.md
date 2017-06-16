@@ -213,7 +213,7 @@ A simple, responsive grid made with CSS floats and a clearfix hack. This grid is
 SVG (Scalable Vector Graphics) è un linguaggio per la descrizione di immagini vettoriali bidimensionali pensato principalmente per il web. Un'immagine vettoriale è descritta mediante un insieme di figure geometriche che definiscono punti, linee, curve e poligoni ai quali possono essere attribuiti colori e anche sfumature. 
 In un'immagine vettoriale è possibile ridimensionare a piacere qualsiasi elemento grafico, mantenendone la qualità, l'immagine così può essere riprodotta su supporti di differente natura (stampa, video, plotter, schermo di cellulare ecc.), mantenendo la massima qualità che quei supporti possono fornire.
 
-Ecco alcune guide all'utilizzo delle SVG
+Ecco alcune guide per utilizzare al meglio le SVG nei nostri progetti web
 * [HTML.it: guida all'utilizzo di SVG e CSS](http://www.html.it/guide/svg-e-css-la-guida/)
 * [CSS tricks: using SVG](https://css-tricks.com/using-svg/)
 
