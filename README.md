@@ -223,10 +223,10 @@ Al giorno il ricorso a queste tecniche non è sempre necessario in quanto abbiam
 Ecco alcuni riferimenti sulle moderne tecnich edi image replacemnt 
 
 
-** [Do We Still Need Image Replacement?](http://www.loganfranken.com/blog/1244/do-we-still-need-image-replacement/)
-** [It’s Time to Be Honest about Image Replacement Techniques](https://www.sitepoint.com/its-time-to-be-honest-about-image-replacement-techniques/)
-** [Evoluzioni dell'image replacement](http://blog.html.it/24/02/2014/evoluzioni-dellimage-replacement/)
-** [Modern Approach To CSS Image Replacement](https://www.appnovation.com/blog/modern-approach-css-image-replacement)
+* [Do We Still Need Image Replacement?](http://www.loganfranken.com/blog/1244/do-we-still-need-image-replacement/)
+* [It’s Time to Be Honest about Image Replacement Techniques](https://www.sitepoint.com/its-time-to-be-honest-about-image-replacement-techniques/)
+* [Evoluzioni dell'image replacement](http://blog.html.it/24/02/2014/evoluzioni-dellimage-replacement/)
+* [Modern Approach To CSS Image Replacement](https://www.appnovation.com/blog/modern-approach-css-image-replacement)
 
 
 
