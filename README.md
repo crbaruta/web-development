@@ -12,6 +12,7 @@ List of resources for web development
 * [Full Screen Navigation Overlay](#full-screen-navigation-overlay) 
 * [Off Canvas Navigation](#off-canvas-navigation) 
 * [Responsive Dropdown Navigation Bar](#responsive-dropdown-navigation-bar)
+* [Responsive, Fluid-Width, Variable-Item Navigation with CSS](https://www.sitepoint.com/responsive-fluid-width-variable-item-navigation-css/)
 * [Flexbox Grid](#flexbox-grid)
 * [Float Grid](#float-grid)
 
