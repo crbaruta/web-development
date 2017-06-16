@@ -221,7 +221,7 @@ Ecco una risorsa per [ottimizzare il codice](https://jakearchibald.github.io/svg
 Le tecniche di image replacement permettono di sostituire il testo di un elemento html con un'immagine di sfondo.
 Lo scopo di queste tecniche è quello di poter utilizzare effetti grafici riproducibili solo mediante immagini all'interno di un pagina web, fornendo allo stessto tempo un testo accessibile agli screen reader e ai motori di ricerca.
 
-Al giorno il ricorso a queste tecniche non è sempre necessario in quanto abbiamo a disposizione valide alternative quali icon font, webfont, etc per rendere elementi grafici che prima potevano essere resi solo come immagini.
+Al giorno d'oggi il ricorso a queste tecniche non è sempre necessario in quanto abbiamo a disposizione valide alternative quali icon font, webfont, etc per rendere elementi grafici che prima potevano essere resi solo attraverso immagini.
 
 Ecco alcuni riferimenti sulle moderne tecnich edi image replacemnt. 
 
