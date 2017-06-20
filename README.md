@@ -252,11 +252,11 @@ Per farlo basta accedere alla pagina del progetto Github a cui si desidera contr
 	``` 
 	L'indirizzo del progetto da clonare lo recuperiamo dal progetto forkato su Github
 
-	Dopo aver clonato il progetto verifico i nodi remoti remoti configurati col comando
+	Per verificare i nodi remoti remoti configurati si esegue il comando
 	``` 
 	$ git remote -v
 	``` 
-	Il risultato che ottengo è il seguente
+	Il risultato che otteniamo è il seguente
 	``` 
 	user@DESKTOP-IDVUEQT MINGW64 /c/cb1/primitive_cb (master)
 	$ git remote -v
