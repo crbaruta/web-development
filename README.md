@@ -240,6 +240,26 @@ Ecco alcuni riferimenti sulle moderne tecnich edi image replacemnt.
 ## Git
 Git è un sistema di controllo versione distribuito che permette tenere traccia dei cambiamenti che si apportanto al proprio lavoro nel tempo, in modo da poter recuperare una versione specifica di un file o di un intero progetto in qualsiasi momento.
 
+Github è un servizio di hosting per lo sviluppo di progetti software che ricorrono al sistema di controlo di versione Git
+
+Contrinuire ad un progetto presente su Github
+1) Creare una copia del progetto sul proprio account Github
+Per farlo basta accedere alla pagina del progetto Github a cui si desidera contribuire e cliccare sul bottone fork
+2) Creare una copia locale del progetto appena forkato
+Per farlo bisogna clonare il progetto appena forkato sul proprio PC, col seguente comando
+``` 
+git clone https://github.com/crbaruta/primitive.git
+``` 
+L'indirizzo del progetto da clonare lo recuperiamo dal progetto forkato su Github
+3) Aggiungere un riferimento al repository remoto (detto remote da Git) da cui si è forkato il progetto, in modo da puntare al progetto originale e catturare evenutuali modifiche introdotte dalla community per poterle trasferire al proprio repository locale.
+Per farlo bisogna recuperare l'indirizzo del progetto originale dalla casella clone URL del progetto originale che abbiamo forkato e utilizzare il comando
+``` 
+git remote add upstream https://github.com/taniarascia/primitive.git
+``` 
+In questo modo avremo due remote
+* origin che corrisponde al fork del progetto sul nostro profilo Github, ed al quale avremo un accesso in lettura/scrittura;
+* upstream che corrisponde al progetto principale, e dal quale potremo solo leggere. 
+
 Ecco alcune guide a git
 * [Git Community Book](https://git-scm.com/book/it/v1)
 * [Get Git](http://get-git.readthedocs.io/it/latest/index.html)
