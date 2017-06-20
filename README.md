@@ -21,7 +21,7 @@ List of resources for web development
 * [Tecniche di image rplacement](#tecniche-di-image-replacement)
 
 ## Development workflow
-* Git(#git)
+* [Git](#git)
 
 
 ## Cos'è il markdown
