@@ -294,9 +294,13 @@ Ecco alcune guide a git
 * [Git Community Book](https://git-scm.com/book/it/v1)
 * [Get Git: guida rapida](http://get-git.readthedocs.io/it/latest/index.html)
 	* [Git: disegnare il workflow ideale](http://get-git.readthedocs.io/it/latest/obiettivo_7.html)
+* [Github: guida per principianti per contribuire ad un progetto](http://html5today.it/tutorial/github-guida-per-principianti-per-contribuire-ad-un-progetto/)
+* [Guida – Git, cos’è e come si usa](http://blog.netsons.com/guida-git-cose-e-come-si-usa/)
+
+
 * [GitHub Help](https://help.github.com/)
 * [A Visual Git Guide](http://marklodato.github.io/visual-git-guide/index-en.html)
-* [Guida – Git, cos’è e come si usa](http://blog.netsons.com/guida-git-cose-e-come-si-usa/)
+
 
 
 
