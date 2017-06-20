@@ -1,7 +1,7 @@
 # Web development
 List of resources for web development
 
-## Markdown
+## General
 * [Cos'è il markdown](#cosè-il-markdown) 
 
 ## CSS
@@ -19,6 +19,9 @@ List of resources for web development
 ## Graphics
 * [SVG e CSS quando e come usarle](#svg-e-css-quando-e-come-usarle)
 * [Tecniche di image rplacement](#tecniche-di-image-replacement)
+
+## Development workflow
+* Git(#git)
 
 
 ## Cos'è il markdown
@@ -233,6 +236,21 @@ Ecco alcuni riferimenti sulle moderne tecnich edi image replacemnt.
 * [It’s Time to Be Honest about Image Replacement Techniques](https://www.sitepoint.com/its-time-to-be-honest-about-image-replacement-techniques/)
 * [Evoluzioni dell'image replacement](http://blog.html.it/24/02/2014/evoluzioni-dellimage-replacement/)
 * [Modern Approach To CSS Image Replacement](https://www.appnovation.com/blog/modern-approach-css-image-replacement)
+
+## Git
+Git è un sistema di controllo versione distribuito che permette tenere traccia dei cambiamenti che si apportanto al proprio lavoro nel tempo, in modo da poter recuperare una versione specifica di un file o di un intero progetto in qualsiasi momento.
+
+Ecco alcune guide a git
+* [Git Community Book](https://git-scm.com/book/it/v1)
+* [Get Git](http://get-git.readthedocs.io/it/latest/index.html)
+* [GitHub Help](https://help.github.com/)
+* [A Visual Git Guide](http://marklodato.github.io/visual-git-guide/index-en.html)
+* [Guida – Git, cos’è e come si usa](http://blog.netsons.com/guida-git-cose-e-come-si-usa/)
+
+
+
+
+
 
 
 
