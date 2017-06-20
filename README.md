@@ -251,14 +251,14 @@ Per farlo bisogna clonare il progetto appena forkato sul proprio PC, col seguent
 git clone https://github.com/crbaruta/primitive.git
 ``` 
 L'indirizzo del progetto da clonare lo recuperiamo dal progetto forkato su Github
-3) Aggiungere un riferimento al repository remoto (detto remote da Git) da cui si è forkato il progetto, in modo da puntare al progetto originale e catturare evenutuali modifiche introdotte dalla community per poterle trasferire al proprio repository locale.
+3) Aggiungere un riferimento al repository remoto (detto *remote* da Git) da cui si è *forkato* il progetto, in modo da puntare al progetto originale e catturare evenutuali modifiche introdotte dalla community per poterle trasferire al proprio repository locale.
 Per farlo bisogna recuperare l'indirizzo del progetto originale dalla casella clone URL del progetto originale che abbiamo forkato e utilizzare il comando
 ``` 
 git remote add upstream https://github.com/taniarascia/primitive.git
 ``` 
 In questo modo avremo due remote
-* origin che corrisponde al fork del progetto sul nostro profilo Github, ed al quale avremo un accesso in lettura/scrittura;
-* upstream che corrisponde al progetto principale, e dal quale potremo solo leggere. 
+* *origin* che corrisponde al fork del progetto sul nostro profilo Github, ed al quale avremo un accesso in lettura/scrittura;
+* *upstream* che corrisponde al progetto principale, e dal quale potremo solo leggere. 
 
 Ecco alcune guide a git
 * [Git Community Book](https://git-scm.com/book/it/v1)
