@@ -242,38 +242,39 @@ Git è un sistema di controllo versione distribuito che permette tenere traccia 
 
 Github è un servizio di hosting per lo sviluppo di progetti software che ricorrono al sistema di controlo di versione Git
 
-### Contrinuire ad un progetto presente su Github
+### Contribuire ad un progetto presente su Github
 1) Creare una copia del progetto sul proprio account Github
 Per farlo basta accedere alla pagina del progetto Github a cui si desidera contribuire e cliccare sul bottone fork
 2) Creare una copia locale del progetto appena forkato
-Per farlo bisogna clonare il progetto appena forkato sul proprio PC, col seguente comando
-``` 
-git clone https://github.com/crbaruta/primitive.git
-``` 
-L'indirizzo del progetto da clonare lo recuperiamo dal progetto forkato su Github
+	Per farlo bisogna clonare il progetto appena forkato sul proprio PC, col seguente comando
+	``` 
+	git clone https://github.com/crbaruta/primitive.git
+	``` 
+	L'indirizzo del progetto da clonare lo recuperiamo dal progetto forkato su Github
 
-Dopo aver clonato il progetto verifico i nodi remoti remoti configurati col comando
-``` 
-$ git remote -v
-``` 
-Il risultato che ottengo è il seguente
-``` 
-user@DESKTOP-IDVUEQT MINGW64 /c/cb1/primitive_cb (master)
-$ git remote -v
-origin  https://github.com/crbaruta/primitive.git (fetch)
-origin  https://github.com/crbaruta/primitive.git (push)
-```
-L'unico nodo remoto configurato si chiama origin (default se non lo cambio) e corrisponde al progetto appena forkato sul proprio profilo Github
+	Dopo aver clonato il progetto verifico i nodi remoti remoti configurati col comando
+	``` 
+	$ git remote -v
+	``` 
+	Il risultato che ottengo è il seguente
+	``` 
+	user@DESKTOP-IDVUEQT MINGW64 /c/cb1/primitive_cb (master)
+	$ git remote -v
+	origin  https://github.com/crbaruta/primitive.git (fetch)
+	origin  https://github.com/crbaruta/primitive.git (push)
+	```
+	L'unico nodo remoto configurato si chiama origin (default se non lo cambio) e corrisponde al progetto appena forkato sul proprio profilo Github
 
 3) Aggiungere un riferimento al repository remoto (detto *remote* da Git) da cui si è *forkato* il progetto, in modo da puntare al progetto originale e catturare evenutuali modifiche introdotte dalla community per poterle trasferire al proprio repository locale.
 Per farlo bisogna recuperare l'indirizzo del progetto originale dalla casella clone URL del progetto originale che abbiamo forkato e utilizzare il comando
 ``` 
 git remote add upstream https://github.com/taniarascia/primitive.git
 ``` 
-In questo modo avremo due remote
+In questo modo avremo due nodi remoti (*remote*)
 * *origin* che corrisponde al fork del progetto sul nostro profilo Github, ed al quale avremo un accesso in lettura/scrittura;
 * *upstream* che corrisponde al progetto principale, e dal quale potremo solo leggere. 
-Verificahiamo la sistuazione col comando usato in precedenza otteniamo
+
+Verificando la sistuazione col comando usato in precedenza si ottiene
 ```user@DESKTOP-IDVUEQT MINGW64 /c/cb1/primitive_cb (master)
 $ git remote -v
 origin  https://github.com/crbaruta/primitive.git (fetch)
