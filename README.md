@@ -292,7 +292,8 @@ Per farlo basta accedere alla pagina del progetto Github a cui si desidera contr
 
 Ecco alcune guide a git
 * [Git Community Book](https://git-scm.com/book/it/v1)
-* [Get Git](http://get-git.readthedocs.io/it/latest/index.html)
+* [Get Git: guida rapida](http://get-git.readthedocs.io/it/latest/index.html)
+** [Git: disegnare il workflow ideale](http://get-git.readthedocs.io/it/latest/obiettivo_7.html)
 * [GitHub Help](https://help.github.com/)
 * [A Visual Git Guide](http://marklodato.github.io/visual-git-guide/index-en.html)
 * [Guida – Git, cos’è e come si usa](http://blog.netsons.com/guida-git-cose-e-come-si-usa/)
