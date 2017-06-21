@@ -22,6 +22,7 @@ List of resources for web development
 
 ## Development workflow
 * [Git](#git)
+* [Gulp Workflow](#gulp-workflow)
 
 
 ## Cos'è il markdown
@@ -300,6 +301,12 @@ Ecco alcune guide a git
 
 * [GitHub Help](https://help.github.com/)
 * [A Visual Git Guide](http://marklodato.github.io/visual-git-guide/index-en.html)
+
+
+## Gulp Workflow
+Gulp.js (per gli amici Gulp) è un Task Runner, ovvero uno strumento che consente ottimizzare e automizzare una serie di task. 
+In particolare nel moderno panorama di sviluppo di frontend occorre effettuare di continuo operazioni ricorrenti, quali ad esempio compilare, concatenare  e minificare fogli di stile e javascript, ottimizzare immagini etc.
+Gulp ci permette di auto
 
 
 
