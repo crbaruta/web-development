@@ -3,6 +3,7 @@ List of resources for web development
 
 ## General
 * [Cos'è il markdown](#cosè-il-markdown) 
+* [entità HTML](#entita-html)
 
 ## CSS
 * [CSS Guideslines](#css-gudelines)
@@ -35,6 +36,11 @@ I nostri file diventano così multipiattaforma: possono essere aperti con qualsi
 Per la sintassi fare riferimento a [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
 Ed ecco il [markdown supportato da wordpress](https://en.support.wordpress.com/markdown-quick-reference/)
+
+## Entità HTML
+* [caratteri speciali](https://css-tricks.com/snippets/html/glyphs/)
+* [entià ISO ed HTML](http://labmaster.mi.infn.it/a2/a2396.html)
+
 
 ## CSS Gudelines
 High-level advice and [guidelines](https://cssguidelin.es/) for writing sane, manageable, scalable CSS
