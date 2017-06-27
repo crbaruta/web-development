@@ -304,9 +304,15 @@ Ecco alcune guide a git
 
 
 ## Gulp Workflow
-Gulp.js (per gli amici Gulp) è un Task Runner, ovvero uno strumento che consente ottimizzare e automizzare una serie di task. 
-In particolare nel moderno panorama di sviluppo di frontend occorre effettuare di continuo operazioni ricorrenti, quali ad esempio compilare, concatenare  e minificare fogli di stile e javascript, ottimizzare immagini etc.
-Gulp ci permette di auto
+Gulp.js (per gli amici Gulp) è un Task Runner, ovvero uno strumento che consente ottimizzare e automizzare una serie operazioni ricorrenti. In particolare nel caso dello sviluppo di frontend ci troviamo ad eseguire di continuo operazioni ricorrenti (task) quali  
+compilare, concatenare e minificare fogli di stile e javascript, ottimizzare immagini etc.
+Gulp ci permette di ottimizzare e automatizzare queste operazioni.
+
+* [Primi passi con gulp](http://blog.ingruz.com/primi-passi-con-gulpjs/)
+* [Come usare Gulp](http://blog.ingruz.com/primi-passi-con-gulpjs/)
+* [usare SaSS con Gulp](https://danieledolci.com/it/blog/posts/usare-sass-con-gulp)
+
+* [npm](https://skillsandmore.org/npm-package-manager-nodejs/)
 
 
 
