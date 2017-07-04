@@ -230,6 +230,11 @@ Ecco alcune guide per utilizzare al meglio le SVG nei nostri progetti web
 
 Ecco una risorsa per [ottimizzare il codice](https://jakearchibald.github.io/svgomg/) delle nostre SVG online
 
+Immagini SVG responsive
+* [Embed SVG into liquid layout or Responsive Web Design](http://soqr.fr/testsvg/embed-svg-liquid-layout-responsive-web-design.php)
+* [How to Scale SVG](https://css-tricks.com/scale-svg/)
+* [Immagini SVG responsive](http://www.html.it/pag/53868/immagini-svg-responsive-con-le-mediaquery/)
+
 ## Tecniche di image rplacement
 Le tecniche di image replacement permettono di sostituire il testo di un elemento html con un'immagine di sfondo.
 Lo scopo di queste tecniche è quello di poter utilizzare effetti grafici riproducibili solo mediante immagini all'interno di un pagina web, fornendo allo stessto tempo un testo accessibile agli screen reader e ai motori di ricerca.
