@@ -295,6 +295,9 @@ Per farlo basta accedere alla pagina del progetto Github a cui si desidera contr
 	upstream        https://github.com/taniarascia/primitive.git (push)
 	```
 
+Per caricare il lavoro sul server remoto
+```git push origin master``` 
+
 
 ### Alcuni comandi di Git
 * *git status*: mostra lo stato di un repository
