@@ -256,9 +256,9 @@ Github è un servizio di hosting per lo sviluppo di progetti software che ricorr
 
 ### Contribuire ad un progetto presente su Github
 1) Creare una copia del progetto sul proprio account Github
-Per farlo basta accedere alla pagina del progetto Github a cui si desidera contribuire e cliccare sul bottone fork
+Per farlo basta accedere alla pagina del progetto Github a cui si desidera contribuire e cliccare sul bottone **fork**
 2) Creare una copia locale del progetto appena forkato
-	Per farlo bisogna clonare il progetto appena forkato sul proprio PC, col seguente comando
+	Per farlo bisogna **clonare** il progetto appena forkato sul proprio PC, col seguente comando
 	``` 
 	git clone https://github.com/crbaruta/primitive.git
 	``` 
