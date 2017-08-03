@@ -7,8 +7,7 @@ List of resources for web development
 
 ## CSS
 * [CSS Guideslines](#css-gudelines)
-* CSS content (#css-content)
-* CSS after and before (#css-after-and-before)
+* [CSS after and before] (#css-after-and-before)
 
 ## Design
 
