@@ -7,6 +7,8 @@ List of resources for web development
 
 ## CSS
 * [CSS Guideslines](#css-gudelines)
+* CSS content (#css-content)
+* CSS after and before (#css-after-and-before)
 
 ## Design
 
@@ -44,6 +46,24 @@ Ed ecco il [markdown supportato da wordpress](https://en.support.wordpress.com/m
 
 ## CSS Gudelines
 High-level advice and [guidelines](https://cssguidelin.es/) for writing sane, manageable, scalable CSS
+
+ 
+
+## CSS after and before 
+**::after  e ::before** sono pseudo elementi che permettono di inserire un contenuto generato, ovvero non presente nel codice html della pagina. Con **::after** il contentuto viene inserito prima dell'elemento in questione, con **::before** il contenuto viene inserito dopo.
+Il contenuto generato è specificato attraverso la proprietà CSS content, che può assumere come valore
+- una stringa di testo: content: "a string"; i caratteri speciali devono essere specificati come entità unicode
+- un URL che punti a un’immagine o a un altro documento, es. content: url(/path/to/image.jpg); 
+- un contatore numerico: content: counter(li);
+- un contenuto vuoto: content: ""; è utile per il clearfix o per inserire immagini come backgound che possono essere ridimensionate col background-size
+- il riferimento al valore di un attributo HTML identificato con un selettore di attributo.
+
+Atenzione la sintassi ufficiale è ::afetr (::before), ma IE8 supporta solo :after(:before)
+
+https://css-tricks.com/almanac/selectors/a/after-and-before/
+https://css-tricks.com/almanac/properties/c/content/
+http://www.html.it/pag/14219/gli-pseudo-elementi/
+
 
 ## Full Screen Navigation Overlay
 
