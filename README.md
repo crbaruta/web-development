@@ -8,6 +8,7 @@ List of resources for web development
 ## CSS
 * [CSS Guideslines](#css-gudelines)
 * [CSS after and before](#css-after-and-before)
+* [RGBa transparent color](https://css-tricks.com/rgba-browser-support/)
 
 ## Design
 
@@ -50,14 +51,14 @@ High-level advice and [guidelines](https://cssguidelin.es/) for writing sane, ma
 
 ## CSS after and before 
 **::after  e ::before** sono pseudo elementi che permettono di inserire un contenuto generato, ovvero non presente nel codice html della pagina. Con **::after** il contentuto viene inserito prima dell'elemento in questione, con **::before** il contenuto viene inserito dopo.
-Il contenuto generato è specificato attraverso la proprietà CSS content, che può assumere come valore
+Il contenuto generato è specificato attraverso la proprietà CSS content, che può assumere come valore:
 - una stringa di testo: content: "a string"; i caratteri speciali devono essere specificati come entità unicode
 - un URL che punti a un’immagine o a un altro documento, es. content: url(/path/to/image.jpg); 
 - un contatore numerico: content: counter(li);
 - un contenuto vuoto: content: ""; è utile per il clearfix o per inserire immagini come backgound che possono essere ridimensionate col background-size
 - il riferimento al valore di un attributo HTML identificato con un selettore di attributo.
 
-Atenzione la sintassi ufficiale è ::afetr (::before), ma IE8 supporta solo :after(:before)
+La sintassi è la seguente ::afetr (::before), ma IE8 supporta solo :after(:before). Per retrocompatibilità con IE8 usare una sola coppia di due punti
 
 Alcuni riferimenti 
 * [::after and ::before](https://css-tricks.com/almanac/selectors/a/after-and-before/)
