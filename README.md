@@ -7,7 +7,7 @@ List of resources for web development
 
 ## CSS
 * [CSS Guideslines](#css-gudelines)
-* [CSS after and before] (#css-after-and-before)
+* [CSS after and before](#css-after-and-before)
 
 ## Design
 
@@ -59,9 +59,10 @@ Il contenuto generato è specificato attraverso la proprietà CSS content, che p
 
 Atenzione la sintassi ufficiale è ::afetr (::before), ma IE8 supporta solo :after(:before)
 
-https://css-tricks.com/almanac/selectors/a/after-and-before/
-https://css-tricks.com/almanac/properties/c/content/
-http://www.html.it/pag/14219/gli-pseudo-elementi/
+Alcuni riferimenti 
+* [::after and ::before](https://css-tricks.com/almanac/selectors/a/after-and-before/)
+* [Content](https://css-tricks.com/almanac/properties/c/content/)
+* [Gli pseudo elementi](http://www.html.it/pag/14219/gli-pseudo-elementi/)
 
 
 ## Full Screen Navigation Overlay
@@ -246,6 +247,7 @@ In un'immagine vettoriale è possibile ridimensionare a piacere qualsiasi elemen
 Ecco alcune guide per utilizzare al meglio le SVG nei nostri progetti web
 * [HTML.it: guida all'utilizzo di SVG e CSS](http://www.html.it/guide/svg-e-css-la-guida/)
 * [CSS tricks: using SVG](https://css-tricks.com/using-svg/)
+* [Coloring SVG in background images](https://codepen.io/noahblon/post/coloring-svgs-in-css-background-images)
 
 Ecco una risorsa per [ottimizzare il codice](https://jakearchibald.github.io/svgomg/) delle nostre SVG online
 
@@ -253,6 +255,8 @@ Immagini SVG responsive
 * [Embed SVG into liquid layout or Responsive Web Design](http://soqr.fr/testsvg/embed-svg-liquid-layout-responsive-web-design.php)
 * [How to Scale SVG](https://css-tricks.com/scale-svg/)
 * [Immagini SVG responsive](http://www.html.it/pag/53868/immagini-svg-responsive-con-le-mediaquery/)
+
+
 
 ## Tecniche di image rplacement
 Le tecniche di image replacement permettono di sostituire il testo di un elemento html con un'immagine di sfondo.
