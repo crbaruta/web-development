@@ -349,8 +349,9 @@ Gulp ci permette di ottimizzare e automatizzare queste operazioni.
 * [Primi passi con gulp](http://blog.ingruz.com/primi-passi-con-gulpjs/)
 * [Come usare Gulp](http://blog.ingruz.com/primi-passi-con-gulpjs/)
 * [usare SaSS con Gulp](https://danieledolci.com/it/blog/posts/usare-sass-con-gulp)
-
 * [npm](https://skillsandmore.org/npm-package-manager-nodejs/)
+* [Installare node.js su windows](https://daniloandreini.it/come-installare-node-js-in-windows/) 
+* [Npm su windows](https://devnews.it/posts/579774f8eb410c83c50a0566/come_installare_nodejs_su_windows)
 
 
 
