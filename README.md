@@ -25,6 +25,7 @@ List of resources for web development
 
 ## Debugging
 * [Beginner Guide to Page and Script Debugging with Chrome](https://www.codeproject.com/Articles/273129/Beginner-Guide-to-Page-and-Script-Debugging-with-C)
+* [Stepping through JavaScript code in Chrome](http://www.mattzeunert.com/2015/03/29/stepping-through-javascript-code-in-chrome.html)
 
 ## Development workflow
 * [Git](#git)
