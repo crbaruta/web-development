@@ -23,6 +23,9 @@ List of resources for web development
 * [SVG e CSS quando e come usarle](#svg-e-css-quando-e-come-usarle)
 * [Tecniche di image rplacement](#tecniche-di-image-replacement)
 
+## Debugging
+* [Beginner Guide to Page and Script Debugging with Chrome](https://www.codeproject.com/Articles/273129/Beginner-Guide-to-Page-and-Script-Debugging-with-C)
+
 ## Development workflow
 * [Git](#git)
 * [Gulp Workflow](#gulp-workflow)
