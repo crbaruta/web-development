@@ -4,6 +4,7 @@ List of resources for web development
 ## General
 * [Cos'è il markdown](#cosè-il-markdown) 
 * [entità HTML](#entita-html)
+* [spunti di riflessione](https://codeburst.io/4-things-you-should-prepare-before-working-as-a-junior-frontend-developer-intern-c8fd6cf382b3)
 
 ## CSS
 * [CSS Guideslines](#css-gudelines)
