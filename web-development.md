@@ -326,6 +326,7 @@ Per farlo basta accedere alla pagina del progetto Github a cui si desidera contr
 
 Per caricare il lavoro sul server remoto
 ```git push origin master``` 
+Per [scaricare le modifiche dal server remoto](https://git-scm.com/book/it/v1/Basi-di-Git-Lavorare-coi-server-remote#Scarica-e-condividi-coi-server-remoti)
 
 
 ### Alcuni comandi di Git
