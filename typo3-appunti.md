@@ -5,6 +5,8 @@
 
 ## Custom content elements
 * [Custom content elements made easy - EXT: mask](https://typo3worx.eu/2016/11/typo3-custom-content-elements-made-easy/)
+  Mask is different from all solutions because it uses only native core functions. If you export the custom content elements with the extension „Mask exporter“ and install the result, you can throw away „mask“ and „mask_exporter“ and your custom content elements run smoothly just with the TYPO3 core!  Furthermore it provides a nice backend module to create the custom content elements via drag and drop.
+Custom content elements are just one part. Additionally you can enrich backend layouts with content elements / fields.
 * [Custom Content Elements - best practise](https://www.slideshare.net/cpsitgmbh/cce-custom-content-elements-best-practice)  
   how to configure and set up custom content elements using mask and mask_export. You will learn about best practice in storing your  configuration and templates in an own extension. You get an overview of all the feature the mask_export extension offers and what is the best way to customize even the export content.
 * [Mask export](https://packagist.org/packages/ichhabrecht/mask-export)
