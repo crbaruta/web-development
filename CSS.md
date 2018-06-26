@@ -68,11 +68,9 @@ Ad esempio per un video largo 700px e alto 340px avremo bisogno di un padding di
 
 Riassumendo
 
-Per i video 4:3 per esempio il classico 640×480 il padding è del 75%
-
-Per i video youtube, vimeo ecc 56.25%
-
-Per i video self-hosted bisogna fare altezza*100 diviso larghezza
+- Per i video 4:3 per esempio il classico 640×480 il padding è del 75%
+- Per i video youtube, vimeo ecc 56.25%
+- Per i video self-hosted bisogna fare altezza*100 diviso larghezza
 
 
 
