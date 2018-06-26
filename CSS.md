@@ -1,4 +1,5 @@
-# FRONTEND DEVLOPMENT
+# FRONTEND DEVELOPMENT
+
 ## CSS tips & tricks
 ## [Bordi](#bordi)
 
@@ -22,6 +23,7 @@ La tecnica consiste nel caricare un immagine fissa di anteprima con sopra l'icon
 Nell'articolo [A Better Method for Embedding YouTube Videos ](https://www.labnol.org/internet/light-youtube-embeds/27941/) è descritta la tecnica di Amit Agarwal
 
 Per rendere repsonsive un video incorporato è necessrio aggiungere un div attorno **tag iframe** e aggiungere degli stili CSS per far si che la dimensione del player si adatti a quella delo schermo.
+
 L'html sarà il seguente
 ```
 <div class="media-container">
