@@ -1,10 +1,10 @@
 # FRONTEND DEVELOPMENT
 
 ## CSS tips & tricks
-## [Bordi](#bordi)
+* [Bordi](#bordi)
 
 ## Oggetti multimediali
-## [Video incorporati](#video)
+* [Video incorporati](#video)
 
 
 ## Bordi
