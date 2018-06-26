@@ -63,7 +63,7 @@ Andrea Leti ci spiega il concetto nel suo articolo [Video Responsive](https://ww
 
 In breve il concetto è questo: il valore del padding 56.25%  è calcolato per video in formato 4:3, in particolare per il formato video di youtube 640×360.
 
-Per video in formato differente è necessario calcolare il padding corretto: ( 100 x altezza del video ) / larghezza.
+Per fomati video differenti è necessario calcolare il padding corretto: ( 100 x altezza del video ) / larghezza.
 Ad esempio per un video largo 700px e alto 340px avremo bisogno di un padding di 100 x 340 / 700 = 48,57
 
 Riassumendo
