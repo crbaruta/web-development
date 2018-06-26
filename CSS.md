@@ -16,9 +16,12 @@ Codepen [bordi multipli ottenuti con box-shadow](https://codepen.io/crbaruta/pen
 
 ## Video incorporati
 Generalmente per incorporare un video di youtube si ricorre al tag **tag iframe**. 
+
 Questo metodo, estremamente semplice presenta due svantaggi
+
 1. il browser deve scaricare una serie di risorse aggiuntive (immagini, CSS e javascript) per il rendering del player di YouTube, anche se il video non viene visionato dall'utente. Questo comporta un aumento del peso complessivo della pagina e del numero di richieste http che il browser deve fare per scaricare le risorse con conseguetne dilatazione dei tempo di caricamento, specialmente se nella pagina sono incorporati più di un video.
 2. il codice non è responsive e il palyerdel video non si adattta alle dimensioni dello schermo
+
 Amit Agarwal di Google ha ideato una tecnica efficiente che permette di incorporare il palyer in modo asincrono se l'utente decide di visionare il video e che rende il palyer totalmente responsive ricorrendo a css e javascript
 La tecnica consiste nel caricare un immagine fissa di anteprima con sopra l'icona del tasto play in modo da renderla del tutto simile ad un player. Il palyer vero e proprio viene scaricato solo se l'utente clicca sul tasto play posizionato sopra l'anteprima.
 Nell'articolo [A Better Method for Embedding YouTube Videos ](https://www.labnol.org/internet/light-youtube-embeds/27941/) è descritta la tecnica di Amit Agarwal
