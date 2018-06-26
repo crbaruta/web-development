@@ -4,7 +4,7 @@
 ## [Bordi](#bordi)
 
 ## Oggetti multimediali
-## [Video incorporati]
+## [Video incorporati](#video)
 
 
 ## Bordi
