@@ -23,13 +23,16 @@ Nell'articolo [A Better Method for Embedding YouTube Videos ](https://www.labnol
 
 Per rendere repsonsive un video incorporato è necessrio aggiungere un div attorno **tag iframe** e aggiungere degli stili CSS per far si che la dimensione del player si adatti a quella delo schermo.
 L'html sarà il seguente
-```<div class="media-container">
+```
+<div class="media-container">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/S-aytvTktpk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
+```
 
 Il css sarà il seguente
 
-```.media-container {
+```
+.media-container {
 	position: relative;
 	padding-bottom: 56.25%;
 	height: 0;
@@ -46,6 +49,7 @@ Il css sarà il seguente
 	width: 100%;
 	height: 100%;
 } 
+```
 
 Tutto il funzionamento si basa su questa regola: padding-bottom:56.25% 
 Andrea Leti ci spiega il concetto nel suo articolo [Video Responsive](https://www.andrealeti.it/video-responsive-o-elestic-video-quando-il-video-deve-adattarsi-soluzione-definitiva/)
