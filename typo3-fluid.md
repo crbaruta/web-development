@@ -1,6 +1,6 @@
 
 ### VHS
-- [menu](#menu)
+- [menu](#menu-con-vhs)
 
 
 ### Menu con VHS
