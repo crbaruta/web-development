@@ -4,7 +4,7 @@
 
 
 ### Menu con VHS
-- [Menu rendering <v:page.menu />](https://worksonmymachine.org/blog/a-guide-to-menu-rendering-with-fluidtypo3)
+- [Menu rendering equivalent to HMENU object in TypoScript: viewhleper <v:page.menu />](https://worksonmymachine.org/blog/a-guide-to-menu-rendering-with-fluidtypo3)
 - [Menu rendering: list, browse, directory, breadcrumb](https://worksonmymachine.org/blog/menu-rendering-in-fluidtypo3-revisited)
 - [Typo3 menu for Fluidpages Templating with VHS ViewHelper](http://www.lukasjakob.com/typo3-menu-for-fluidpages-templating-with-vhs-viewhelper/)
 - [Manually rendering menu with subpages using VHS](https://r4fx.github.io/t3-snippets/fluid/vhs/manually-rendering-menu-with-subpages-using-VHS-MenuViewHelper/)
