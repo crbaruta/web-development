@@ -3,7 +3,7 @@
 - [menu](#menu)
 
 
-### menu con VHS
+### Menu con VHS
 - [A guide to menu rendering with FluidTYPO3](https://worksonmymachine.org/blog/a-guide-to-menu-rendering-with-fluidtypo3)
 - [Menu rendering with FluidTYPO3 revisited](https://worksonmymachine.org/blog/menu-rendering-in-fluidtypo3-revisited)
 - [Typo3 menu for Fluidpages Templating with VHS ViewHelper](http://www.lukasjakob.com/typo3-menu-for-fluidpages-templating-with-vhs-viewhelper/)
