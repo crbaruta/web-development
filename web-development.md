@@ -346,6 +346,8 @@ Ecco alcune guide a git
 * [GitHub Help](https://help.github.com/)
 * [A Visual Git Guide](http://marklodato.github.io/visual-git-guide/index-en.html)
 
+* [Perché Git è il version control più amato dagli sviluppatori](http://www.reactconsulting.it/react-dev-blog/posts/2018/luglio/perch%C3%A9-git-%C3%A8-il-version-control-pi%C3%B9-amato-dagli-sviluppatori/)
+
 
 ## Gulp Workflow
 Gulp.js (per gli amici Gulp) è un Task Runner, ovvero uno strumento che consente ottimizzare e automizzare una serie operazioni ricorrenti. In particolare nel caso dello sviluppo di frontend ci troviamo ad eseguire di continuo operazioni ricorrenti (task) quali  
