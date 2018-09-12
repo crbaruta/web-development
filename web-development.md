@@ -40,9 +40,13 @@ I testi possono poi essere convertiti in HTML immediatamente fruibile senza la p
 Il grosso vantaggio del Markdown è quello di generare dei file di testo che contengono la formattazione.
 I nostri file diventano così multipiattaforma: possono essere aperti con qualsiasi applicazione e su qualsiasi piattaforma senza perdere le formattazioni applicate al testo.
 
-Per la sintassi fare riferimento a [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
-[Markdown for GitHub](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
-[Markdown supportato da wordpress](https://en.support.wordpress.com/markdown-quick-reference/)
+Per la sintassi fare riferimento a 
+
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+- [Markdown for GitHub](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+- [Markdown supportato da wordpress](https://en.support.wordpress.com/markdown-quick-reference/)
+
+[Come esportare file Markdown in altri formati (.html, .pdf)](https://www.thezine.it/2017/10/08/markdown-convertirlo-in-html/)
 
 ## Entità HTML
 * [caratteri speciali](https://css-tricks.com/snippets/html/glyphs/)
