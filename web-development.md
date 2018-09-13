@@ -45,6 +45,7 @@ Per la sintassi fare riferimento a
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 - [Markdown for GitHub](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 - [Markdown supportato da wordpress](https://en.support.wordpress.com/markdown-quick-reference/)
+- [Markdown syntax guide](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html)
 
 [Come esportare file Markdown in altri formati (.html, .pdf)](https://www.thezine.it/2017/10/08/markdown-convertirlo-in-html/)
 
